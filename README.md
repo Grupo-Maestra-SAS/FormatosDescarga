@@ -21,12 +21,16 @@ automáticamente la primera vez que lo abres, usando tu clave de acceso.
 2. La primera vez que lo abras, Excel te pedirá tu **clave de acceso de Grupo Maestra**. Ingrésala
    una sola vez: el archivo la recuerda en este equipo y, de ahí en adelante, los catálogos
    (empleados, centros, festivos) se descargan solos cada vez que abres el archivo.
-3. Si no tienes tu clave, o el archivo te avisa que no está autorizada, comunícate con TI de Grupo
+3. Justo después, te pedirá **elegir una contraseña corta propia** — es un paso distinto al
+   anterior: aquí inventas tú una contraseña, no repitas la clave de acceso. Esa será, de ahora en
+   adelante, la contraseña que Excel te pida cada vez que abras el archivo. Anótala en un lugar
+   seguro: si la olvidas no tiene recuperación, hay que volver a descargar el formato desde cero.
+4. Si no tienes tu clave, o el archivo te avisa que no está autorizada, comunícate con TI de Grupo
    Maestra.
 
 ## Notas
 
 - Descarga siempre desde este repositorio (`Grupo-Maestra-SAS/FormatosDescarga`). Es el canal
   oficial y vigente.
-- No compartas tu clave de acceso ni el archivo ya sincronizado (con los catálogos cargados) fuera
-  del equipo de trabajo.
+- No compartas tu clave de acceso, tu contraseña corta, ni el archivo ya sincronizado (con los
+  catálogos cargados) fuera del equipo de trabajo.
